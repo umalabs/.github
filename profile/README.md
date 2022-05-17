@@ -1,1 +1,1 @@
-UMA Labs focuses on the innovative use of authentication and authorization technologies in open networks in conformance with the [NIST Special Publication 800-63-3](https://pages.nist.gov/800-63-3/), Digital Identity Guidelines.
+UMA Labs focuses on the innovative use of authentication and authorization technologies in open networks in conformance with the [NIST Special Publication 800-63C](https://pages.nist.gov/800-63-3/sp800-63c.html), Digital Identity Guidelines: Federation and Assertions.
