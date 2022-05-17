@@ -1,7 +1,1 @@
-UMA Labs focuses on the innovative use of authorization technologies. We explore the User-Managed Access and OAuth2 frameworks. We solved multiple issues:
-
-* The ability to dynamically build trust between mutually unknown parties.
-* How to convey information about the user from an identity provider to an authorization server across security domain boundaries.
-* Fine-grained access control.
-
-Given these points, our efforts resulted in designing an Identity Propagation trust framework. This framework allows organizations to trust external identities and data.
+UMA Labs focuses on the innovative use of authentication and authorization technologies in open networks in conformance with the [NIST Special Publication 800-63-3 Digital Identity Guidelines](https://pages.nist.gov/800-63-3/).
