@@ -2,4 +2,4 @@ With the rapid API adoption by companies across all industries, security ranks a
 
 UMA Labs focuses on the innovative use of authentication and authorization technologies in open networks in conformance with the [NIST Special Publication 800-63C](https://pages.nist.gov/800-63-3/sp800-63c.html), Digital Identity Guidelines: Federation and Assertions. We introduce a new proxied architecture through the [Identity Propagation and Assertions](https://github.com/umalabs/identity-propagation-and-assertions) project. This architecture is beneficial for cross-domain API protection systems.
 
-As a proof of concept, we developed a communications system that can deliver documents (JSON, EDI) and binary files across B2B security boundaries.
+As a proof of concept, we developed [Federizer](https://github.com/umalabs/federizer) — a communications system that can deliver documents (JSON, EDI) and binary files across B2B security boundaries.
