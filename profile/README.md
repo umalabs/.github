@@ -2,4 +2,4 @@ With the rapid API adoption by companies across all industries, security ranks a
 
 UMA Labs focuses on the innovative use of authentication and authorization technologies in open networks in conformance with the [NIST Special Publication 800-63C](https://pages.nist.gov/800-63-3/sp800-63c.html), Digital Identity Guidelines: Federation and Assertions. We introduce a new proxied architecture through the [Identity Propagation and Assertions](https://github.com/umalabs/identity-propagation-and-assertions) project. This architecture is beneficial for cross-domain API protection systems.
 
-As a proof of concept, we developed [Propagator](https://github.com/umalabs/propagator) — a data transfer system with a generic API that can send and receive virtually any type of document, file, or assortment of bytes across security boundaries.
+As a proof of concept, we developed [Propagator](https://github.com/umalabs/propagator) — a data transfer system with a generic API that can send and receive virtually any type of document, file, or collection of bytes across security boundaries.
